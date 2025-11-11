@@ -5,7 +5,7 @@
 
 О себе могу рассказать не много, лишь то что создаю сервера по Minecraft, монтирую видео, и снимаю контент на свой [YouTube](<https://youtube.com/@cudasaev>).
 
-Состою в сообществе [крипипаст](<https://discord.gg/eFGdJaD99y>) а так же [аномальных](<https://discord.gg/anomaly-place410-1159190432119533588>) и [мистических](<https://discord.gg/mythofobia>) явлений игры Minecraft.
+Состою в комьюнити [крипипаст](<https://discord.gg/eFGdJaD99y>) а так же [аномальных](<https://discord.gg/anomaly-place410-1159190432119533588>) и [мистических](<https://discord.gg/mythofobia>) явлений Minecraft.
 
 > В данном профиле я буду скидывать **скрипты**, **схематики** и прочее что я хочу выложить в общий доступ.
 ## Ссылки на соц. сети
