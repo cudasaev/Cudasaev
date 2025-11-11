@@ -1,16 +1,13 @@
-## Hi there 👋
+## Информация обо мне
 
-<!--
-**cudasaev/Cudasaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ``Возраст``: 18 лет
+- ``Часовой пояс``: UTC+7
 
-Here are some ideas to get you started:
+О себе могу рассказать не много, лишь то что создаю сервера по Minecraft, монтирую видео, и снимаю контент на свой [YouTube](<https://youtube.com/@cudasaev>).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Состою в сообществе [крипипаст](<https://discord.gg/eFGdJaD99y>) а так же [аномальных](<https://discord.gg/anomaly-place410-1159190432119533588>) и [мистических](<https://discord.gg/mythofobia>) явлений игры Minecraft.
+
+> В данном профиле я буду скидывать **скрипты**, **схематики** и прочее что я хочу выложить в общий доступ.
+## Ссылки на соц. сети
+- ``Для связи``: [TG](<https://t.me/cudasaev>).
+- ``Сервер сообщества``: [Discord](<https://discord.gg/zRrpJe6uJQ>).
