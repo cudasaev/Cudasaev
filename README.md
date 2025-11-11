@@ -9,5 +9,5 @@
 
 > В данном профиле я буду скидывать **скрипты**, **схематики** и прочее что я хочу выложить в общий доступ.
 ## Ссылки на соц. сети
-- ``Для связи``: [Поддержать](<https://donationalerts.com/r/cudasaev>).
+- ``Поддержать``: [Alerts](<https://donationalerts.com/r/cudasaev>).
 - ``Сервер сообщества``: [Discord](<https://discord.gg/zRrpJe6uJQ>).
