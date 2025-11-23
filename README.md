@@ -11,5 +11,5 @@
 - ``Возраст``: 18 лет
 - ``Часовой пояс``: UTC+7
 ## Ссылки
-- ``Связь со мной``: [TG](<https://t.me/cudasaev>).
+- ``Связь со мной``: [Telegram](<https://t.me/cudasaev>).
 - ``Сервер сообщества``: [Discord](<https://discord.gg/zRrpJe6uJQ>).
