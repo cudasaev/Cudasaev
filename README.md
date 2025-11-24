@@ -12,5 +12,5 @@
 - ``Часовой пояс``: UTC+7
 ## Ссылки
 - ``Мой канал``: [**YouTube**](<https://youtube.com/@cudasaev>).
-- ``Личный канал``: [**Telegram**](<https://t.me/cudasaev>).
+- ``Мой канал``: [**Telegram**](<https://t.me/cudasaev>).
 - ``Сервер сообщества``: [**Discord**](<https://discord.gg/zRrpJe6uJQ>).
