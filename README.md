@@ -11,4 +11,5 @@
 - ``Возраст``: 18 лет
 - ``Часовой пояс``: UTC+7
 ## Ссылки
+- ``Канал на``: [**YouTube**](<https://youtube.com/@cudasaev>).
 - ``Сервер сообщества``: [**Discord**](<https://discord.gg/zRrpJe6uJQ>).
