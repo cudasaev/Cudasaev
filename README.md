@@ -11,6 +11,4 @@
 - ``Возраст``: 18 лет
 - ``Часовой пояс``: UTC+7
 ## Ссылки
-- ``Мой канал``: [**YouTube**](<https://youtube.com/@cudasaev>).
-- ``Мой канал``: [**Telegram**](<https://t.me/cudasaev>).
 - ``Сервер сообщества``: [**Discord**](<https://discord.gg/zRrpJe6uJQ>).
