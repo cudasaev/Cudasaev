@@ -12,4 +12,4 @@
 - ``Часовой пояс``: UTC+7
 ## Ссылки
 - ``Личный канал``: [Telegram](<https://t.me/cudasaev>).
-- ``Сервер сообщества``: [Discord](<https://discord.gg/zRrpJe6uJQ>).
+- ``Сервер сообщества``: [**Discord**](<https://discord.gg/zRrpJe6uJQ>).
