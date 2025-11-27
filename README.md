@@ -14,4 +14,5 @@
 - ``Канал на``: [**YouTube**](<https://youtube.com/@cudasaev>).
 - ``Сервер сообщества``: [**Discord**](<https://discord.gg/zRrpJe6uJQ>).
 ## Для связи
+- ``Личка``: [**Telegram**](<https://t.me/cudasaev>).
 - ``Почта``: __cudasaev@gmail.com__.
