@@ -13,3 +13,5 @@
 ## Ссылки
 - ``Канал на``: [**YouTube**](<https://youtube.com/@cudasaev>).
 - ``Сервер сообщества``: [**Discord**](<https://discord.gg/zRrpJe6uJQ>).
+
+- ``По сотрудничеству``: __cudasaev@gmail.com__.
