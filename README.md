@@ -10,6 +10,6 @@
 - ``Видеоконтент``: [**YouTube**](<https://www.youtube.com/@cudasaev>).
 - ``Сервер сообщества``: [**Discord**](<https://discord.gg/zRrpJe6uJQ>).
 ## Развитие
-- ``Поддержать``: [**Donation**](<https://onationalerts.com/r/cudasaev>)  [Alerts**](<https://onationalerts.com/r/cudasaev>).
+- ``Поддержать``: [**Donation**](<https://onationalerts.com/r/cudasaev>)  [**Alerts**](<https://onationalerts.com/r/cudasaev>).
 ## Контакт для связи
 - ``Почта``: __cudasaev@gmail.com__.
