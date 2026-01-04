@@ -7,7 +7,7 @@
 - ``Возраст``: 18 лет
 - ``Часовой пояс``: UTC+7
 ## Ссылки
-- ``Сервер сообщества``: [**Discord**](<https://discord.gg/zRrpJe6uJQ>).
-- ``Поддержать``: [**Donation**](<https://onationalerts.com/r/cudasaev>).
+- ``Сервер``: [**Discord**](<https://discord.gg/zRrpJe6uJQ>).
+- ``Поддержать``: [**DonationAlerts**](<https://onationalerts.com/r/cudasaev>).
 ## Контакт для связи
 - ``Почта``: __cudasaev@gmail.com__.
