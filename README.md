@@ -9,7 +9,6 @@
 - ``ДР``: 25мар. 2007г.
 - ``Часовой пояс``: UTC+7
 ## Ссылки
-- ``Профиль``: [**VK**](<https://vk.com/cudasaev>)
 - ``Сервер``: [**Discord**](<https://discord.gg/zRrpJe6uJQ>)
 - ``Поддержать / Донат``: [**DonationAlerts**](<https://donationalerts.com/r/cudasaev>)
 ## Связь со мной
