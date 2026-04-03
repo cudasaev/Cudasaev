@@ -9,5 +9,5 @@
 ## Ссылки
 - ``Сервер``: [**Discord**](<https://discord.gg/zRrpJe6uJQ>).
 - ``Поддержать``: [**DonationAlerts**](<https://donationalerts.com/r/cudasaev>).
-## Контакт для связи
+## Связь со мной
 - ``Контакт``: [**TG**](<https://t.me/cudasaev>).
