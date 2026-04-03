@@ -10,4 +10,4 @@
 - ``Сервер``: [**Discord**](<https://discord.gg/zRrpJe6uJQ>)
 - ``Поддержать``: [**DonationAlerts**](<https://donationalerts.com/r/cudasaev>)
 ## Связь со мной
-- ``Контакт``: [**TG**](<https://t.me/cudasaev>)
+- ``Контакт``: [**Telegram**](<https://t.me/cudasaev>)
