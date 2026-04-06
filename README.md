@@ -12,3 +12,4 @@
 - ``Сервер``: [**Discord**](<https://discord.gg/zRrpJe6uJQ>)
 ## Связь со мной
 - ``Контакт``: [**Telegram**](<https://t.me/cudasaev>)
+- ``Почта``: __cudasaev@gmail.com__
